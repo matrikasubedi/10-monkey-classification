@@ -8,7 +8,7 @@ n5   , cebus_capucinus	     , white_headed_capuchin         , 141          , 28
 n6   , mico_argentatus	     , silvery_marmoset              , 132          , 26
 n7   , saimiri_sciureus	     , common_squirrel_monkey        , 142          , 28
 n8   , aotus_nigriceps	     , black_headed_night_monkey     , 133          , 27
-n9   , trachypithecus_johnii , nilgiri_langur                , 132          , 26
+n9   , trachypithecus_johni , nilgiri_langur                , 132          , 26
 
 
 
